@@ -1,0 +1,8 @@
+.BOX {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: grey;
+    padding: 10px;
+    width: 50%; 
+}
